@@ -1,4 +1,4 @@
 # Online Shoes Store
-mostruário de tênis !!!
+sneaker store display page
 
 ![Imagem da tela inicial](https://github.com/doglaS2/online-shoes-store/blob/master/mostrando.png)
